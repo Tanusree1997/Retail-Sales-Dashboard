@@ -2,7 +2,7 @@
 
 This dashboard aims to provide comprehensive insights into the sales and profit dynamics of Deluxe, a UK-based retailer. It enables us to analyze popular product categories across different countries and discern customer preferences. Additionally, it facilitates the identification of top-performing sales individuals both globally and within each specific country market.
 
-Check out the Dashboard here: https://lnkd.in/dVjGJdSX
+Check out the Dashboard here: https://docs.google.com/spreadsheets/d/1k279xG3lomQjB9h9EBVWB0kCzEycWAPpoAZamCq1oxo/edit#gid=615107792
 
 **Tools used**
 
