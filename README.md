@@ -2,6 +2,12 @@
 
 This dashboard aims to provide comprehensive insights into the sales and profit dynamics of Deluxe, a UK-based retailer. It enables us to analyze popular product categories across different countries and discern customer preferences. Additionally, it facilitates the identification of top-performing sales individuals both globally and within each specific country market.
 
+Check out the Dashboard here: https://lnkd.in/dVjGJdSX
+
+**Tools used**
+
+Google Sheets
+
 **𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬**
 
 1) Despite an increase in profits and revenue from 2019 to 2020, the profit to sales ratio saw a 1% decline.
@@ -24,4 +30,4 @@ The profit to sales ratio of this company is decreasing although sales and profi
 2.  They should adopt appropriate marketing strategies to increase the sales of high-profit generating products.
 3.  They typically see an increase in revenue in the middle and ending of the year, and thus they are recommended to introduce their promotional schemes in the lean months, espcially in Jan-April.  
 
-Check out the Dashboard here: https://lnkd.in/dVjGJdSX
+
